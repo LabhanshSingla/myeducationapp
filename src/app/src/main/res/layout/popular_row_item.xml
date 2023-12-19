@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/courseImg"
+        android:layout_width="418dp"
+        android:layout_height="247dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/course" />
+
+    <TextView
+        android:id="@+id/CourseName"
+        android:layout_width="375dp"
+        android:layout_height="40dp"
+        android:fontFamily="@font/open_sans_extrabold"
+        android:text="Name "
+        android:textColor="#18FFFF"
+        android:textColorHighlight="#3E0303"
+        android:textSize="25sp"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="36dp" />
+
+    <TextView
+        android:id="@+id/offered_by"
+        android:layout_width="365dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Offered_by "
+        android:textColor="#18FFFF"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/CourseName"
+        tools:layout_editor_absoluteX="30dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

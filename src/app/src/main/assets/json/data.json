@@ -1,0 +1,58 @@
+[
+  {
+    "PopularCourses": [
+      {
+        "Name": "Responsive Web Design",
+        "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Front End Development Libraries",
+        "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Data Visualization",
+        "url": "https://www.freecodecamp.org/learn/data-visualization/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Scientific Computing with Python",
+        "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Information Security",
+        "url": "https://www.freecodecamp.org/learn/information-security/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Introduction to Computer Science",
+        "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+        "OfferedBy": "Harvard University"
+      },
+      {
+        "Name": "Computational Neuroscience",
+        "url": "https://www.coursera.org/learn/computational-neuroscience",
+        "OfferedBy": "University of Washington"
+      },
+      {
+        "Name": "Introduction to Cybersecurity Foundations",
+        "url": "https://www.coursera.org/learn/introduction-to-cybersecurity-foundations?action=enroll",
+        "OfferedBy": "INFOSEC"
+      }
+    ],
+    "PickFromWhereYouLeft": [
+      {
+        "Name": "Responsive Web Design",
+        "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "OfferedBy": "FreeCodeCamp"
+      },
+      {
+        "Name": "Introduction to Computer Science",
+        "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+        "OfferedBy": "Harvard University"
+      }
+    ]
+  }
+]
